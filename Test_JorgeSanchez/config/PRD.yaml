@@ -1,0 +1,39 @@
+fecha_inicio: 2025-01-01
+fecha_fin: 2025-03-20
+globalPath: prd/data/global_mobility_data_entrega_productos.csv
+Guatemala:
+  processedPath: prd/processedData/Guatemala
+  abreviatura: GT
+  unidad_reducida: CS
+  Factor_conversion_ST: 20
+  moneda: Q.
+Peru:
+  processedPath: prd/processedData/Peru
+  abreviatura: PE
+  unidad_reducida: CS
+  Factor_conversion_ST: 20
+  moneda: $.
+Jamaica:
+  processedPath: prd/processedData/Jamaica
+  abreviatura: JM
+  unidad_reducida: CS
+  Factor_conversion_ST: 20
+  moneda: J$.
+Honduras:
+  processedPath: prd/processedData/Honduras
+  abreviatura: HN
+  unidad_reducida: CS
+  Factor_conversion_ST: 20
+  moneda: L.
+El_Salvador:
+  processedPath: prd/processedData/El_Salvador
+  abreviatura: SV
+  unidad_reducida: CS
+  Factor_conversion_ST: 20
+  moneda: $.
+Ecuador:
+  processedPath: prd/processedData/Ecuador
+  abreviatura: EC
+  unidad_reducida: CS
+  Factor_conversion_ST: 20
+  moneda: $.
